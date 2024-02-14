@@ -31,6 +31,3 @@ Storage:
   </a>
 </p>
 
-# Notes on using the website
-Project is hosted <a href="https://live-auctions.netlify.app/"><strong>here</strong></a>
-- If you do not want to register, press the skip button during login. This will log you in as a test user (test@test.com).
